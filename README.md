@@ -331,7 +331,7 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 * [datacenter-ip-ranges](https://github.com/moonetix/datacenter-ip-ranges) - Daily cloud, CDN and Tor IP ranges from the providers' own feeds, with a ready-made `geo` map setup to tag datacenter traffic. Free, MIT licensed.
 
 ## Tutorials
-* [Nginx admin guide](https://www.nginx.com/resources/admin-guide/) - Nginx and nginx plus admin guide. 
+* [Nginx admin guide](https://docs.nginx.com/nginx/admin-guide/) - Nginx and nginx plus admin guide. 
 * [Nginx documentation](http://nginx.org/en/docs/) - Nginx documentation introduction. 
 * [Nginx blog](https://www.nginx.com/blog/) - News, views, and how-tos from nginx. 
 * [Nginx beginner’s Guide](http://nginx.org/en/docs/beginners_guide.html) - This guide gives a basic introduction to nginx and describes some simple tasks that can be done with it.
@@ -339,7 +339,7 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 * [Nginx docs cn](https://github.com/taobao/nginx-docs-cn) - The chinese translation of nginx documentation. 
 * [Nginx book](https://github.com/taobao/nginx-book) - Nginx from primer to expert (In Chinese).
 * [Nginx module development](http://www.evanmiller.org/nginx-modules-guide.html) - Emiller's guide to nginx module development. 
-* [OpenResty best practice](https://www.gitbook.com/book/moonbingbing/openresty-best-practices/details) - OpenResty best practice(In Chinese). 
+* [OpenResty best practice](https://github.com/moonbingbing/openresty-best-practices) - OpenResty best practice(In Chinese). 
 * [Nginx-cheatsheet](https://github.com/SimulatedGREG/nginx-cheatsheet) - A quick reference to common server configurations from serving static files to using in congruency with Node.js applications.
 * [Monitoring Nginx on Kubernetes](https://sysdig.com/blog/monitor-nginx-kubernetes/) - Deployment options, use cases, metrics and alerts for containerized Nginx instances on Kubernetes.
 
